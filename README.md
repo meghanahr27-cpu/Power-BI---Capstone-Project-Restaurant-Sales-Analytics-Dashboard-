@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Sales Analytics Dashboard | Power BI
+<img width="1173" height="662" alt="image" src="https://github.com/user-attachments/assets/a5da0943-f86f-4af9-b4db-dbec9260df86" /># 🍽️ Restaurant Sales Analytics Dashboard | Power BI
 
 ## 📌 Project Overview
 
