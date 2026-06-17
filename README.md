@@ -1,3 +1,5 @@
+Restaurant Sales Analytics Dashboard
+
 ## 📌 Project Overview
 
 This project presents an interactive Power BI dashboard developed to analyze restaurant sales performance across multiple cities and restaurants. The dashboard transforms raw sales data into meaningful business insights using Power Query, DAX, and data visualization techniques.
