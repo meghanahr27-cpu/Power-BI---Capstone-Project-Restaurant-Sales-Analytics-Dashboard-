@@ -102,6 +102,7 @@ The solution enables stakeholders to monitor key performance indicators (KPIs), 
 ---
 
 ## 📷 Dashboard Preview
+<img width="1173" height="662" alt="Powe BI Dashboard" src="https://github.com/user-attachments/assets/4057ea80-fed8-4d05-adc6-d0656521d2ea" />
 
 (Add dashboard screenshots here)
 
