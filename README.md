@@ -1,4 +1,4 @@
-Restaurant Sales Analytics Dashboard
+<p style="font-size:24px;">Restaurant Sales Analytics Dashboard</p>
 
 ## 📌 Project Overview
 
