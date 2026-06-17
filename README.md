@@ -1,5 +1,3 @@
-<img width="1173" height="662" alt="image" src="https://github.com/user-attachments/assets/a5da0943-f86f-4af9-b4db-dbec9260df86" /># 🍽️ Restaurant Sales Analytics Dashboard | Power BI
-
 ## 📌 Project Overview
 
 This project presents an interactive Power BI dashboard developed to analyze restaurant sales performance across multiple cities and restaurants. The dashboard transforms raw sales data into meaningful business insights using Power Query, DAX, and data visualization techniques.
